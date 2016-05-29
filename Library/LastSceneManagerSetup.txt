@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Hypercube/volumetricMicroscopyViewer/volumetricMicroscopyViewer.unity
+  isLoaded: 1
+  isActive: 1
